@@ -1,0 +1,43 @@
+.textCSS{
+    width: 60%;
+    padding: 12px 10px;
+    box-sizing: border-box;
+    border: 1px solid #555;
+    outline: none;
+}
+ 
+input[type=text]:focus {
+    background-color: whitesmoke;
+  }
+ 
+.alignment{
+    padding-top:60px;
+    margin-left: 1020px;
+    margin-bottom: 50px;    
+}
+ 
+button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 20%;
+    font-size: 13px;
+    border-radius: 3px;
+    margin-left: 15px;
+  }
+ 
+button:hover {
+    background-color: whitesmoke;
+    color: black;
+    border: solid;
+    border-color: #000;
+    border-width: 1px;
+  }
+
+
+  
